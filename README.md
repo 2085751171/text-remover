@@ -9,7 +9,7 @@
 **English:** This is a repository for a free, online AI Text Remover tool. It intelligently identifies and erases text, watermarks, subtitles, and other unwanted text from any image, seamlessly reconstructing the background with AI.
 
 **中文简介：**
-免费在线 AI 去除图片文字工具！支持任意图片一键擦除字幕、水印及广告，完美还原背景细节。适用于电商图优化、海报清理及文档修复，助您轻松获取干净无字的图片。
+免费在线 AI 去除图片文字工具！支持任意图片一键擦除字幕、水印及广告，完美还原背景细节。适用于电商图优化、海报清理及文档修复，助您轻松获取干净无字的图片
 
 ## ➡️ [**立即免费体验 AI 去除图片文字 (Click to Use for Free)**](https://www.eyuseo.com/zh/image-edit/ai-remove-text-from-image)
 
